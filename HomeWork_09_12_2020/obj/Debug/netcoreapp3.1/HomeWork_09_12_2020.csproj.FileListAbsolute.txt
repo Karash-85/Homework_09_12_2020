@@ -1,0 +1,13 @@
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\bin\Debug\netcoreapp3.1\HomeWork_09_12_2020.exe
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\bin\Debug\netcoreapp3.1\HomeWork_09_12_2020.deps.json
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\bin\Debug\netcoreapp3.1\HomeWork_09_12_2020.runtimeconfig.json
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\bin\Debug\netcoreapp3.1\HomeWork_09_12_2020.runtimeconfig.dev.json
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\bin\Debug\netcoreapp3.1\HomeWork_09_12_2020.dll
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\bin\Debug\netcoreapp3.1\HomeWork_09_12_2020.pdb
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\obj\Debug\netcoreapp3.1\HomeWork_09_12_2020.csprojAssemblyReference.cache
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\obj\Debug\netcoreapp3.1\HomeWork_09_12_2020.csproj.CoreCompileInputs.cache
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\obj\Debug\netcoreapp3.1\HomeWork_09_12_2020.AssemblyInfoInputs.cache
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\obj\Debug\netcoreapp3.1\HomeWork_09_12_2020.AssemblyInfo.cs
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\obj\Debug\netcoreapp3.1\HomeWork_09_12_2020.dll
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\obj\Debug\netcoreapp3.1\HomeWork_09_12_2020.pdb
+C:\Users\Кана\source\repos\HomeWork_09_12_2020\HomeWork_09_12_2020\obj\Debug\netcoreapp3.1\HomeWork_09_12_2020.genruntimeconfig.cache
